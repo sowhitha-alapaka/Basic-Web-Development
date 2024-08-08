@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>About Myself</title>
+</head>
+<body bgcolor="chocolate" text="black">
+    <h1 align="center">MYSELF</h1>
+    <img src="Me.jpg" alt="My Photo" height="220px"width="200px">
+    <p><b>Name:</b>Sowhitha</p>
+    <p><b>Phone Number:</b>1234567894</p>
+    <p><b>Roll Number:</b>22102A030004</p>
+    <p><b>College:</b>MBU</p>
+    <p><b>Degree:</b>B.Tech</p>
+    <p><b>Course:</b>Computer Science</p>
+    <p><b>Deaprtment:</b>Data Science</p>
+</body>
+</html>
