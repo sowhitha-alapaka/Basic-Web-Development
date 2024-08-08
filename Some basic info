@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Basic Info</title>
+</head>
+<body bgcolor="lavender", text="black">
+    <h1 align="center", style="background-color: coral;"><b>HTML</b></h1>
+    <p>HyperText Markup Language or HTML is used for defining a structure or layout of a website or an application.</p>
+    <p>The code maily consists of two sections: HEAD and BODY.</p>
+    <h3>HEAD</h3>
+    <p>In this section, we can define the title of the webpage.</p>
+    <h3>BODY</h3>
+    <p>In this section, we can align text, change the font of the text we inserted and also we can design a background color for the text.</p>
+</body>
+</html>
