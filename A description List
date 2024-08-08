@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Description List</title>
+</head>
+<body>
+    <h2 align:"center">Subject and its description</h2>
+    <dl>
+        <dt><b>MTLA</b></dt>
+        <dd>Matrix Theory and Linear Algebra, is a branch of mathematics whch deals with matrices and the concepts of linear algebra.</dd>
+    </dl>
+    <dl>
+        <dt><b>FDS</b></dt>
+        <dd>Foundations of Data Science deals with the analyzing and modeling the data.</dd>
+    </dl>
+    <dl>
+        <dt><b>WT</b></dt>
+        <dd>Web Technology studies with the designing and analysis of the webpages.</dd>
+    </dl>
+</body>
+</html>
