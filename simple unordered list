@@ -1,0 +1,30 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Unordered List</title>
+</head>
+<body text="black">
+    <ul>
+        <li><h4>Instagram</h4></li>
+        <ul>
+            <li>Story Views</li>
+            <li>Activity Status</li>
+            <li>Account Centre</li>
+        </ul>
+        <li><h4>Facebook</h4></li>
+        <ul>
+            <li>Friend Suggestions</li>
+            <li>Messenger</li>
+            <li>Retag Posts</li>
+        </ul>
+        <li><h4>YouTube</h4></li>
+        <ul>
+            <li>Live Streaming</li>
+            <li>Subscription</li>
+            <li>Trending Shorts</li>
+        </ul>
+    </ul>
+</body>
+</html>
